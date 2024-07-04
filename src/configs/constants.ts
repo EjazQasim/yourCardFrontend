@@ -1,0 +1,12 @@
+export const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL
+export const AUTH_URL = '/v1/auth'
+export const USERS_URL = '/v1/users'
+export const PROFILES_URL = '/v1/profiles'
+export const LINKS_URL = '/v1/links'
+export const PRODUCTS_URL = '/v1/products'
+export const TAGS_URL = '/v1/tags'
+export const CATEGORIES_URL = '/v1/categories'
+export const PLATFORMS_URL = '/v1/platforms'
+export const TEAMS_URL = '/v1/teams'
+export const STRIPE_URL = '/v1/stripe'
+export const LEADS_URL = '/v1/leads'
